@@ -19,4 +19,4 @@ https://developer.android.com/studio
 https://www.sqlite.org/index.html
 
 
-<img src="https://user-images.githubusercontent.com/26252247/55486286-b830ba00-5634-11e9-80b4-7e9569a41569.png" width="250" height="350">
+<img src="https://user-images.githubusercontent.com/26252247/55486286-b830ba00-5634-11e9-80b4-7e9569a41569.png" width="200" height="350"> 
