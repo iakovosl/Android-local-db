@@ -1,7 +1,7 @@
-Android-local-db
+Contacts Phone Book
 ===
 
-A simple Android local database application
+A simple Android local database application. The project is a contact list in Android studio powered by the SQlite database.
 
 Configuration
 =
